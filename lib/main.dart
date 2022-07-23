@@ -33,7 +33,6 @@ class _TestGridState extends State<TestGrid> {
     super.initState();
   }
 
-  int multiply(int a,int b)=>a*b;
 
   @override
   Widget build(BuildContext context) {
