@@ -1,5 +1,6 @@
 # projects
-TEST FOR XGRID
+Test for Xgrid!
+Do CHECK SCREENSHOTS IN THE "screenshots" Folder.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
